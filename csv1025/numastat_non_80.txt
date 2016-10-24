@@ -1,0 +1,17 @@
+80G_local_node1_14-27
+                           node0           node1
+numa_hit                42065398        31856117
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit             62678           62219
+local_node              42047903        31803576
+other_node                 17495           52541
+
+80G_remote_node1_10-13
+
+
+
+
+
+
+
