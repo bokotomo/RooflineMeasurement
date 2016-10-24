@@ -7,9 +7,68 @@ interleave_hit             62678           62219
 local_node              42047903        31803576
 other_node                 17495           52541
 
+
 80G_remote_node1_10-13
+                           node0           node1
+numa_hit                42270927        33862923
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit             62678           62219
+local_node              42253315        33714282
+other_node                 17612          148641
 
 
+
+
+80G_inter_0-6,14-19
+                           node0           node1
+numa_hit                42962690        34450588
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit            104868          106850
+local_node              42924708        34277629
+other_node                 37982          172959
+
+80G_inter_0-6,14-20
+                           node0           node1
+numa_hit                44746616        38570023
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit            189477          196431
+local_node              44661720        38269643
+other_node                 84896          300380
+
+
+
+80G_normal
+                           node0           node1
+numa_hit                43227137        34928401
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit            104950          106923
+local_node              43189132        34755386
+other_node                 38005          173015
+
+
+28inter=all
+                           node0           node1
+numa_hit                43559364        35702700
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit            147132          151628
+local_node              43498192        35508098
+other_node                 61172          194602
+
+
+
+28normal
+                           node0           node1
+numa_hit                43982952        36157534
+numa_miss                      0               0
+numa_foreign                   0               0
+interleave_hit            147307          151802
+local_node              43921658        35962868
+other_node                 61294          194666
 
 
 
