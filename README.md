@@ -67,7 +67,32 @@ membind: 0 1
 <pre><code>              total        used        free      shared  buff/cache   available
 Mem:         257676        3618      204300          19       49757      253438
 Swap:         20003           0       20003
-</pre></code>
+</code></pre>
+
+
+## Intel(R) Xeon(R) CPU E5-2695 v4
+[Intel® Xeon® Processor E5-2695 v4](http://ark.intel.com/products/91316/Intel-Xeon-Processor-E5-2695-v4-45M-Cache-2_10-GHz)
+
+<pre><code>of Cores	18
+of Threads	36
+Processor Base Frequency	2.10 GHz
+Max Turbo Frequency	3.30 GHz
+Cache	45 MB SmartCache
+Bus Speed	9.6 GT/s QPI
+Max Memory Size (dependent on memory type)	1.54 TB
+Memory Types	DDR4 1600/1866/2133/2400
+Max # of Memory Channels	4
+Max Memory Bandwidth	76.8 GB/s
+Physical Address Extensions	46-bit
+ECC Memory Supported ‡ 	Yes
+</code></pre>
+
+
+
+
+
+
+
 
 
 
